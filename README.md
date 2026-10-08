@@ -241,4 +241,4 @@ This repository serves as the official landing page for Dauntless. The software 
 **Get the most recent version of Dauntless today!**
 
 ---
-**Last updated:** 2026-10-08 09:56:28 UTC
+**Last updated:** 2026-10-08 17:13:56 UTC
